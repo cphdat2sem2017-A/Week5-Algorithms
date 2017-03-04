@@ -1,0 +1,59 @@
+Collection opsamling - drejebog
+===============================
+
+---------------------------------
+1)
+Mål: Sikre evne til at huske og skelne mellem indtil nu diskuterede termer og begreber
+
+Dialog og direkte spørgsmål => Mind Map
+
+-----------------------------------------------------------
+2)
+Mål: Forstå tradeoff mellem iterativ og rekursiv løsning 
+
+Øvelse: Vurdere effektivitet af rekursiv løsning til Fibonacci  (O(2^n)) og iterativ (O(n))
+
+(se slides: http://www.cs.cornell.edu/info/courses/spring-98/cs211/lecturenotes/07-recursion.pdf)
+
+--------------------------------------------------
+3) 
+Mål: Kende til muligheder i Java Collection Framework
+
+
+Collectionbegrebet
+
+Overblik  /ppt
+
+Demo: Collection utility-klasser (Collections, Arrays, HashSet)
+
+Øvelse 1 /Collections.sort execution time
+
+Øvelse 2/Demo: HashSet (algoritme/dubletter)
+
+Hvor læse mere: 
+http://docs.oracle.com/javase/tutorial/collections/index.html
+
+-----------------------------------------------------------
+4)
+Mål: 
+Kunne realisere en algoritme baseret på en Collection
+Kunne skrive en rekursiv metode
+
+Tree Sort intro
+
+Øvelse 3
+
+
+----------------------------------------------------------- 
+5)
+Mål: Forstå Merge Sort
+
+Algoritmen intro
+
+Øvelse 4  (implementere)
+
+---------------------------------------
+
+
+
+
